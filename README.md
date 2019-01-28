@@ -1,7 +1,7 @@
 # Project Introduction
 
 This project features a basic redux with react. It comes with a full automated tests in action creator and reducers.
-`axios`,`jest`,`enzyme`,`redux`,`moxios` are used. This project also demonstrate how to test async test and with redux store.
+`axios`,`jest`,`enzyme`,`redux`,`moxios` are used. This project also demonstrate how to write async test and with redux store.
 
 # Available Scripts
 
